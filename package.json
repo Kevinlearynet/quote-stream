@@ -1,0 +1,27 @@
+{
+  "name": "rebalance-portfolio",
+  "version": "0.0.1",
+  "description": "Small tool for calculating asset allocation rebalances",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevinlearynet/quote-stream.git"
+  },
+  "keywords": [
+    "stock",
+    "rebalance",
+    "portfolio",
+    "asset",
+    "allocation"
+  ],
+  "author": "Kevin Leary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevinlearynet/quote-stream/issues"
+  },
+  "homepage": "https://github.com/Kevinlearynet/quote-stream#readme"
+}
